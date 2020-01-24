@@ -4,7 +4,7 @@ module.exports = {
     "plugin:react/recommended",
     "prettier"
   ],
-  plugins: ["react-hooks"],
+  plugins: ["prettier", "react-hooks"],
   settings: {
     // allow importing of typescript files too
     "import/resolver": {

@@ -1,7 +1,7 @@
 # Fernando Rojo's eslint config 🏋🏻‍♂️
 
 ```sh
-yarn add --dev eslint-config-fernando
+yarn add --dev eslint-config-nando
 ```
 
 If you're using typescript, do this too:
@@ -14,6 +14,6 @@ yarn add --dev typescript
 
 ```
 {
-	"extends": ["fernando"]
+	"extends": ["nando"]
 }
 ```
