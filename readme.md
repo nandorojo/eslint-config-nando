@@ -14,6 +14,6 @@ yarn add --dev typescript
 
 ```
 {
-	"extends": "fernando"
+	"extends": ["fernando"]
 }
 ```
