@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-nando",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Fernando Rojo's React Native ESLint config.",
   "main": "index.js",
   "repository": "https://github.com/nandorojo/eslint-config-nando",
