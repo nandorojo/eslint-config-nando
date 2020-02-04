@@ -3,7 +3,7 @@
 Meant for react native projects using Typescript.
 
 ```sh
-yarn add --dev eslint-config-nando
+yarn add --dev eslint-config-nando eslint
 ```
 
 If you're using typescript, do this too:
