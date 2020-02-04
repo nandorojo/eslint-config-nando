@@ -24,12 +24,12 @@ yarn add --dev typescript
 
 ```json
 {
-    "singleQuote": true,
-    "trailingComma": "es5",
-    "overrides": [{ "files": "*.ts", "options": { "parser": "typescript" } }],
-    "semi": false,
-    "jsxSingleQuote": false,
-    "useTabs": false,
-    "tabWidth": 2
+	"singleQuote": true,
+	"trailingComma": "es5",
+	"overrides": [{ "files": "*.ts", "options": { "parser": "typescript" } }],
+	"semi": false,
+	"jsxSingleQuote": false,
+	"useTabs": true,
+	"tabWidth": 4
 }
 ```
