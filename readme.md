@@ -12,6 +12,8 @@ If you're using typescript, do this too:
 yarn add --dev typescript
 ```
 
+Create the following two files at the root of your react native project:
+
 **`.eslintrc`**
 
 ```
