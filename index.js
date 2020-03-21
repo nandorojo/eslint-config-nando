@@ -19,18 +19,7 @@ module.exports = {
     "@typescript-eslint/no-use-before-define": "off",
     "@typescript-eslint/explicit-function-return-type": "off",
     "react/prop-types": "off",
-    "@typescript-eslint/member-delimiter-style": "off",
-    "prettier/prettier": [
-      "error",
-      {
-        tabWidth: 2,
-        trailingComma: "es5",
-        singleQuote: true,
-        jsxSingleQuote: false,
-        semi: false,
-        useTabs: true,
-        cursorOffset: -1
-      }
-    ]
+    "@typescript-eslint/member-delimiter-style": "off"
+    // "prettier/prettier": ["warn", require("./prettier")]
   }
 };
