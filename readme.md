@@ -22,7 +22,7 @@ Create the following two files at the root of your react native project:
 }
 ```
 
-**`.prettierrc`**
+**`.prettierrc.js`**
 
 ```json
 module.exports = require('eslint-config-nando/prettier')
