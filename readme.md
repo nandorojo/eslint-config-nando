@@ -1,5 +1,10 @@
 # Fernando Rojo's eslint config 🏋🏻‍♂️
 
+```sh
+npx @nandorojo/lint-expo
+```
+
+
 Meant for react native projects using Typescript.
 
 ```sh
