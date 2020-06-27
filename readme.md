@@ -8,7 +8,7 @@ npx @nandorojo/lint-expo
 Meant for react native projects using Typescript.
 
 ```sh
-yarn add --dev eslint-config-nando eslint
+yarn add --dev eslint-config-nando
 ```
 
 If you're using typescript, do this too:
@@ -23,7 +23,7 @@ Create the following two files at the root of your react native project:
 
 ```
 {
-	"extends": ["nando"]
+  "extends": ["nando"]
 }
 ```
 
