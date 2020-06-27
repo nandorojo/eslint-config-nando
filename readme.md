@@ -21,7 +21,7 @@ Create the following two files at the root of your react native project:
 
 **`.eslintrc`**
 
-```
+```json
 {
   "extends": ["nando"]
 }
@@ -29,6 +29,6 @@ Create the following two files at the root of your react native project:
 
 **`.prettierrc.js`**
 
-```json
+```js
 module.exports = require('eslint-config-nando/prettier')
 ```
