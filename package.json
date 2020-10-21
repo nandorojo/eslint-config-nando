@@ -1,22 +1,22 @@
 {
   "name": "eslint-config-nando",
-  "version": "1.0.10",
+  "version": "1.0.11",
   "description": "Fernando Rojo's React Native ESLint config.",
   "main": "index.js",
   "repository": "https://github.com/nandorojo/eslint-config-nando",
   "author": "Fernando Rojo",
   "license": "MIT",
   "dependencies": {
-    "@types/react-native": "^0.61.4",
-    "@typescript-eslint/eslint-plugin": "^2.17.0",
-    "@typescript-eslint/parser": "^2.17.0",
-    "eslint": "^6.8.0",
-    "eslint-config-prettier": "^6.9.0",
-    "eslint-plugin-prettier": "^3.1.2",
-    "eslint-plugin-react": "^7.18.0",
-    "eslint-plugin-react-hooks": "^2.3.0",
-    "prettier": "^2.1.0",
-    "typescript": "^3.8.3",
+    "@types/react-native": "^0.63.27",
+    "@typescript-eslint/eslint-plugin": "^4.5.0",
+    "@typescript-eslint/parser": "^4.5.0",
+    "eslint": "^7.11.0",
+    "eslint-config-prettier": "^6.14.0",
+    "eslint-plugin-prettier": "^3.1.4",
+    "eslint-plugin-react": "^7.21.5",
+    "eslint-plugin-react-hooks": "^4.2.0",
+    "prettier": "^2.1.2",
+    "typescript": "^4.1.0-dev.20201021",
     "typescript-eslint": "^0.0.1-alpha.0"
   }
 }
