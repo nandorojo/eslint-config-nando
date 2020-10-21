@@ -4,6 +4,6 @@ module.exports = {
   overrides: [{ files: "*.ts", options: { parser: "typescript" } }],
   semi: false,
   jsxSingleQuote: false,
-  useTabs: true,
-  tabWidth: 4
+  tabWidth: 2,
+  useTabs: false,
 };

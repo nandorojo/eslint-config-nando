@@ -19,7 +19,8 @@ module.exports = {
     "@typescript-eslint/no-use-before-define": "off",
     "@typescript-eslint/explicit-function-return-type": "off",
     "react/prop-types": "off",
-    "@typescript-eslint/member-delimiter-style": "off"
+    "@typescript-eslint/member-delimiter-style": "off",
+    "@typescript-eslint/explicit-module-boundary-types": "off"
     // "prettier/prettier": ["warn", require("./prettier")]
   }
 };
